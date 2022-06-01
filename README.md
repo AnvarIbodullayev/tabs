@@ -1,5 +1,7 @@
 ### `React.js project` (fetch, hooks)
 
+fetch from https://course-api.com/react-tabs-project
+
 ### `npm start`
 
 Runs the app in the development mode.\
